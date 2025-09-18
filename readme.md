@@ -1,4 +1,4 @@
-📱 Mobile Phone Detection with YOLOv11 🚀
+# 📱 Mobile Phone Detection with YOLOv11 🚀
 
 Welcome to an awesome project that harnesses the power of YOLOv11 to detect mobile phones in images and real-time video! 📸 This project uses a Kaggle dataset, converts XML annotations to YOLO format, trains a model, and even lets you detect phones live using your webcam. Whether you're new to AI or a pro, this guide is your ticket to a fun and rewarding experience! 😎
 
@@ -203,4 +203,5 @@ This Project: Free to use and modify for educational purposes.
 This project is a blast to work on, and you’ll end up with a model that can spot mobile phones in images and live video like a champ! 🦸 Whether you’re training in Colab or detecting phones with your webcam, you’re now part of the AI revolution. Keep experimenting and have fun! 🎉
 
 Built with 💖 by a passionate coder (you!). Powered by YOLOv11, Ultralytics, and a sprinkle of curiosity.
+
 
